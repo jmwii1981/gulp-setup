@@ -1,3 +1,3 @@
 # my-gulpfile
 
-This repository contains my current gulpfile for use in Wordpress Theme development.
+This repository contains my current gulp setup for use in Wordpress Theme development.
